@@ -1,2 +1,1 @@
-hi there iam dharun
-chennai kolkata
+city : chennai
